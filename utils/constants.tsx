@@ -1,6 +1,8 @@
 import { BsCode, BsEmojiSunglasses } from 'react-icons/bs';
 import { GiCakeSlice, GiGalaxy, GiLipstick } from 'react-icons/gi';
 import { FaPaw, FaMedal, FaGamepad } from 'react-icons/fa';
+import { MdRoom, MdAddShoppingCart } from 'react-icons/md';
+import { RiMovie2Fill } from 'react-icons/ri';
 
 export const topics = [
   {
@@ -34,6 +36,18 @@ export const topics = [
   {
     name: 'sports',
     icon: <FaMedal />,
+  },
+  {
+    name: 'travel',
+    icon: <MdRoom />,
+  },
+  {
+    name: 'shopping',
+    icon: <MdAddShoppingCart />,
+  },
+  {
+    name: 'movie',
+    icon: <RiMovie2Fill />,
   },
 ];
 
