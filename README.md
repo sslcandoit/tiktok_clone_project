@@ -1,11 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ***
-![memories0](client/src/images/memories0.png)
-![memories0](client/src/images/memories0.png)
-![memories0](client/src/images/memories0.png)
-![memories0](client/src/images/memories0.png)
-![memories0](client/src/images/memories0.png)
-![memories0](client/src/images/memories0.png)
+![image01](images/01.png)
+![image02](images/02.png)
+![image03](images/03.png)
+![image04](images/04.png)
+![image05](images/05.png)
+![image06](images/06.png)
 
 
 
