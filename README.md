@@ -1,7 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+***
+![memories0](client/src/images/memories0.png)
+![memories0](client/src/images/memories0.png)
+![memories0](client/src/images/memories0.png)
+![memories0](client/src/images/memories0.png)
+![memories0](client/src/images/memories0.png)
+![memories0](client/src/images/memories0.png)
+
+
+
+
 
 ## Getting Started
-
 First, run the development server:
 
 ```bash
